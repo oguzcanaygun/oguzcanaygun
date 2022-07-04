@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oguzcanaygun&theme=merko)
-![](https://komarev.com/ghpvc/?username=oguzcanaygun&color=brightgreen&style=plastic)
